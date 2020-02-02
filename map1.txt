@@ -1,0 +1,28 @@
+
+
+
+
+ RRRRRRRRRRRRRRRRRRRRRRRR
+ RRRRRRRRRRRRRRRRRRRRRRRR
+ RRRRRRRRRRRRRRRRRRRRRRRR
+ RRRRRRRRRRRRRRRRRRRRRRRR
+ RRRRRRRRRRRRRRRRRRRRRRRR
+ RRRRRRRRRRRRRRRRRRRRRRRR
+            CRRRRRRC
+             RRRRRR
+   RRRRRR    RRRRRR
+   RRRRRR    RRRRRR
+   RRRRRR    RRRRRR
+   RRRRRR    RRRRRR
+   RRRRRR    RRRRRR
+   RRRRRR    RRRRRR
+   RRRRRR    RRRRRR
+
+' ', ' ', ' ', 'R', 'R', 'R', 'R', 'R', 'R', 'C', ' ', ' ', 'C', 'R', 'R', 'R', 'R', 'R', 'R', ' ', ' ', ' ', ' ', ' ', ' ',
+' ', ' ', ' ', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', ' ', ' ', ' ', ' ', ' ', ' ',
+' ', ' ', ' ', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', ' ', ' ', ' ', ' ', ' ', ' ',
+' ', ' ', ' ', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', ' ', ' ', ' ', ' ', ' ', ' ',
+' ', ' ', ' ', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', ' ', ' ', ' ', ' ', ' ', ' ',
+' ', ' ', ' ', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', ' ', ' ', ' ', ' ', ' ', ' ',
+' ', ' ', ' ', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', 'R', ' ', ' ', ' ', ' ', ' ', ' ',
+' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', 'C', 'R', 'R', 'R', 'R', 'R', 'R', ' ', ' ', ' ', ' ', ' ', ' ',
